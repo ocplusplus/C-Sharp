@@ -1,3 +1,7 @@
+/*Write a C# program which uses the concept of function overloading to write the following functions: 
+a.  function named perimeter to calculate the perimeter of a rectangle (perimeter = 2 x length + 2 x width) (2 perimeters to pass) 
+b.  a function named perimeter to calculate the perimeter of a square (perimeter = 4 x length) (1 perimeter to pass)*/
+
 using System;
 
 class CalculateOverload
